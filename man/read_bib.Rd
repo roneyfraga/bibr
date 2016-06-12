@@ -12,7 +12,7 @@ read_bib(database = NULL, extension = NULL, directory = NULL,
 
 \item{extension}{\code{txt} or \code{csv} extension.}
 
-\item{directory}{the path to find the files, if the files are in a diferrent directory.}
+\item{directory}{the path to find the files, if the files are in a different directory.}
 
 \item{col.names}{logical, if TRUE return optional name of column to the data.}
 
@@ -23,7 +23,7 @@ a data frame with the data imported.
 }
 \description{
 Read data from Web of Science 'WoS' and Scopus. It's possible read one o more
-files and set the colunm names.
+files and set the column names.
 }
 \details{
 Write the details about the functions here!

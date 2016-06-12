@@ -1,11 +1,11 @@
 #' Read bibliographic data
 #' 
 #' Read data from Web of Science 'WoS' and Scopus. It's possible read one o more
-#' files and set the colunm names.
+#' files and set the column names.
 #' 
 #' @param database \code{WoS} or \code{Scopus} data base.
 #' @param extension \code{txt} or \code{csv} extension.
-#' @param directory the path to find the files, if the files are in a diferrent directory.
+#' @param directory the path to find the files, if the files are in a different directory.
 #' @param col.names logical, if TRUE return optional name of column to the data.
 #' @param col.names.style \code{uppercase}, \code{lower} and \code{good4read}. 
 #' @return a data frame with the data imported.

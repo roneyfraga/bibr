@@ -8,5 +8,5 @@ data/
 .RData
 
 # Example code in package build process
-*-Ex.R
+*-ex.R
 
