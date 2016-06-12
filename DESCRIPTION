@@ -1,0 +1,11 @@
+Package: bibr
+Type: Package
+Title: Manipulate bibliometrics data
+Version: 1.0
+Date: 2016-06-11
+Author: Roney Fraga Souza, Winicius Sabino, Dandara Araujo
+Maintainer: Roney Fraga Souza <roneyfraga@gmail.com>
+Description: Functions to read, split, treat and transform bibliometrics data
+    from Scopus and Web of Knowledge, and general BibTex data.
+License: GLP-3
+RoxygenNote: 5.0.1
